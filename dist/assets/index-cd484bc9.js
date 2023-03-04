@@ -1,0 +1,1 @@
+import{F as e,u as n,b as m}from"./Input-df745255.js";e.useInjectFormItemContext=n;e.ItemRest=m;e.install=function(t){return t.component(e.name,e),t.component(e.Item.name,e.Item),t.component(m.name,m),t};

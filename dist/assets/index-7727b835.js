@@ -1,1 +1,0 @@
-import{T as e,a as m}from"./Modal-cb2f3d17.js";import{F as t}from"./index-a430f305.js";import{a5 as r,a6 as o}from"./index-91845532.js";e.TabPane=m;e.install=function(n){return n.component(e.name,e),n.component(m.name,m),n};t.useInjectFormItemContext=r;t.ItemRest=o;t.install=function(n){return n.component(t.name,t),n.component(t.Item.name,t.Item),n.component(o.name,o),n};

@@ -1,1 +1,0 @@
-import{T as t,_ as m}from"./TabPane-6246fdd8.js";import{F as e,u as s,c as o}from"./Input-6750102f.js";t.TabPane=m;t.install=function(n){return n.component(t.name,t),n.component(m.name,m),n};e.useInjectFormItemContext=s;e.ItemRest=o;e.install=function(n){return n.component(e.name,e),n.component(e.Item.name,e.Item),n.component(o.name,o),n};
